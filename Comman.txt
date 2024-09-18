@@ -1,0 +1,9 @@
+docker - v
+docker run hello-world
+docker run busybox ping goole.com
+docker stop 7755dfadd244
+docker rm 11ba46c31d1d
+docker run -p 8800:80 nginx 
+docker run -d -p 7800:80 nginx
+
+12_punchung
